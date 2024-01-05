@@ -1,4 +1,4 @@
-# NLP_Practical_Assignment
+# Predicting Sentences with Pretrained LLMs
 A practical assignment for the course Natural Language Processing
 
 This repository features a Jupyter notebook for the natural language generation project. It focuses on text generation conditioned on sentence beginnings,
